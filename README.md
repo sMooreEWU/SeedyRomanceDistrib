@@ -4,9 +4,7 @@ CSCD 474 / 574 - Game One - Dating Farming Sim
 How to run game:
 1. download it from our repository.
 [https://github.com/sMooreEWU/SeedyRomanceDistrib/edit/main/](https://github.com/sMooreEWU/SeedyRomanceDistrib/edit/main/)
-3. Go to unity hub and import from Disk click down the folders until you find DatingSim
-4. Go to Scenes and find Title-Card then click the play button at the top.
-
+2. Following download instructions down below!
 
 ## 🌿 My Seedy Romance 
 
@@ -31,9 +29,11 @@ My Seedy Romance is a Farming Dating simulation where your love interest are... 
 
 ## Installation
 ### Macbook 
-
+- Download the 'MySeedyRomance(Mac).zip'
+- Decompress the arcive and Double click on 'My Seedy Romance' app
+- Have fun!
 
 ### Windows
-- Download the 'SeedyRomance_1-0.zip' and unzip the contents of the file
+- Download the 'SeedyRomance_1-0_Windows.zip' and unzip the contents of the file
 - Open up the unzipped file and double click on the 'MySeedyRomance.exe'
 - Have fun!
