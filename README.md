@@ -34,4 +34,6 @@ My Seedy Romance is a Farming Dating simulation where your love interest are... 
 
 
 ### Windows
-
+- Download the 'SeedyRomance_1-0.zip' and unzip the contents of the file
+- Open up the unzipped file and double click on the 'MySeedyRomance.exe'
+- Have fun!
